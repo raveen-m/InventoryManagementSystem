@@ -5,4 +5,4 @@ It provides all the basic functionalities like adding product to inventory, upda
 products.ipynb ------> used to manage product record <br/>
 purchase.ipynb ------> used for billing, sales report and updating details of inventory after purchase <br/>
 record.json ---------> product record maintained in JSON format <br/>
-sales.json ----------> sales record maintained in JSON format  <br/>
+sales.json ----------> sales record maintained in JSON format
